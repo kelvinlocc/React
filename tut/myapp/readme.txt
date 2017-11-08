@@ -1,0 +1,1 @@
+create local.properties to direct the android path
